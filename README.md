@@ -1,18 +1,22 @@
 paycomet-for-opencart
 =====================
 
-Módulo de pago de PAYCOMET para OpenCart (v.1.5.x - 2.2)
+PAYCOMET payment module for OpenCart v.2.x
 
-## Instrucciones de Instalación
+## Installation Instructions
 
-1. Descarga el módulo de [aquí](https://github.com/PAYCOMET/opencart/releases/latest)
-2. Suba el contenido de las carpetas al directorio root ( / ) de tu instalación opencart.
-3. El Módulo esta disponible en Ingles y Castellano. Asegúrese que la carpeta de idiomas ingles es (english o en-gb) y la de castellano (spanish o es-es).  De no ser así, copie el contenido de estas carpetas a la carpeta correspondiente de tu tienda.
-4. Para probar el Módulo necesita una cuenta en PAYCOMET. Solicite su cuenta gratuita a info@paycomet.com. Indíquenos la URL/HOST donde tiene instalada la tienda y le proporcionaremos una cuenta Sandbox con tarjetas de prueba para probar la operativa completa del Módulo. La información de tu cuenta la encontrarás en [el panel de gestión de PAYCOMET](https://dashboard.paycomet.com/cp_control/login.php).
+1. Download the module from [here] (https://github.com/PAYCOMET/opencart/releases/latest)
+2. Upload the contents of the folders to the root (/) directory of your opencart installation.
+3. The Module is available in English and Spanish. Make sure that the English language folder is (English or en-gb) and the Castilian one (Spanish or es-es). If not, copy the contents of these folders to the corresponding folder in your store.
+4. To test the Module you need a PAYCOMET account. Request your free account at info@paycomet.com. Tell us the URL / HOST where you have the store installed and we will provide you with a Sandbox account with test cards to test the complete operation of the Module. You will find your account information in [the PAYCOMET management panel] (https://dashboard.paycomet.com/cp_control/login.php).
 
 
-## Configuración del Módulo
-Visita la documentación online en [https://docs.paycomet.com/es/modulos-de-pago/opencart](https://docs.paycomet.com/es/modulos-de-pago/opencart).
+## Module Configuration
+Visit the online documentation at [https://docs.paycomet.com/es/payment-modules/opencart)(https://docs.paycomet.com/en/payment-modules/opencart).
 
-### Soporte
-Si tienes alguna duda o pregunta no tienes más que escribirnos un email a [info@paycomet.com]
+### Support
+If you have any questions or concerns, you just have to write us an email to [info@paycomet.com] 
+Mehr zu diesem Ausgangstext
+Für weitere Übersetzungsinformationen ist ein Ausgangstext erforderlich
+Feedback geben
+Seitenleisten
